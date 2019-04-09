@@ -1,0 +1,12 @@
+.inicio{
+    font-family: 'Nunito', sans-serif;
+    text-align: center; 
+    padding: 50px; 
+    background-color:rgb(149, 91, 224);
+    border-radius: 4%; 
+}
+
+#ondeVaoAsImagens{
+    width:10px; 
+    
+}
