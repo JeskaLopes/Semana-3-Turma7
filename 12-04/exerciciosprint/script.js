@@ -4,7 +4,8 @@ function palindromo(){
 
     for(var i = 0; i < palavra.length/2; i++){
         if (palavra[i] !== palavra[palavra.length -1 -i]){
-            resposta.innerText = 'Não é =(';
+            resposta.innerText = 'Não é =('
+            return;
         }
         else {
             resposta.innerText = "Sim! =D";
