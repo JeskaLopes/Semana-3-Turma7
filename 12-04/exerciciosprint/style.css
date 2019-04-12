@@ -1,0 +1,36 @@
+body{
+    background: black;
+    text-align: center; 
+}
+
+h1{
+    text-decoration: none;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    font-family: 'Bungee Shade';
+ 
+
+}
+
+#input{
+    border: none;   
+    color: black;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-flex;
+    font-size: 50px;
+    margin: 80px;
+}
+
+#resposta{
+    color: white;
+    padding: 0px;
+    display:block; 
+    margin-left: autp;
+    text-align: center;
+    font-size: 49px;
+    font-family: 'Courgette', cursive;
+}
+    
